@@ -2,7 +2,6 @@
 
 💻 **Estudiante de Ingeniería de Sistemas**  
 🔧 Me apasiona la **automatización**, el **desarrollo de software** y la **gestión de proyectos**.  
-📍 Actualmente trabajo en un supermercado, donde aplico mis conocimientos para mejorar procesos (digitalización de hojas de vida, automatización de recetas, etc.).
 
 ---
 
@@ -22,7 +21,7 @@
 - 🗃 **Digitalización de hojas de vida** – Sistema para convertir hojas físicas en información digital estructurada.  
 - ⚙️ **Automatización de recetas para vendedores** – Integración de **Zoho** y **Power Automate** para generar recetas en Excel.  
 - 🖥 **Compresor/Descompresor en C++** – Proyecto en **Kali Linux** para manejo de archivos.  
-- 🎮 **Emulador de CPU** – Con visualización de bloque en pantalla para entender instrucciones paso a paso.
+- 
 
 ---
 
